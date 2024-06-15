@@ -33,7 +33,7 @@ librosa
 ffmpeg
 easydict
 webp
-mediapipe==0.10.3
+mediapipe
 cython==3.0.2
 easydict
 gdown
@@ -41,7 +41,7 @@ insightface==0.7.3
 ipython
 librosa==0.10.1
 onnx==1.14.1
-onnxruntime==1.15.1
+onnxruntime
 onnxsim==0.4.33
 opencv_python
 Pillow
